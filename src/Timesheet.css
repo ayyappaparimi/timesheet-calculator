@@ -1,0 +1,25 @@
+.container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: Artial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+input {
+    width: 50px;
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-size: 16px;
+}
